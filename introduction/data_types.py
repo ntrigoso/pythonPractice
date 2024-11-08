@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[5]:
-
 
 # data type- string 
 "Hello, World!"
@@ -16,8 +14,6 @@ True
 # data type- NoneType: represent absence of value 
 None
 
-
-# In[ ]:
 
 
 
