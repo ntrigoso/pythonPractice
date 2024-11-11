@@ -1,15 +1,9 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[5]:
-
-
 # creating a variable
 
 b = 100 
-
-
-# In[1]:
 
 
 # changing the value of a variable 
@@ -21,8 +15,6 @@ x = 200
 print(x)
 
 
-# In[2]:
-
 
 # arithmetic operations with variables 
 
@@ -33,8 +25,6 @@ print(z)
 a = x - y 
 print(a) 
 
-
-# In[ ]:
 
 
 # variables storing other data type
