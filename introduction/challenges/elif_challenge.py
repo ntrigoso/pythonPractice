@@ -1,8 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[10]:
-
+# write a program that prints 3 different messgaes if a variable is less than or equal to 10, greater than 10 and less than or equal to 25, and greater than 25 
 
 x = 10 
 if x <= 10:
