@@ -1,0 +1,4 @@
+# priniting 3 different strings
+print("Hello")
+print("There")
+print("People")
